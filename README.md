@@ -1,2 +1,3 @@
-# freebsd-ports
-FreeBSD ports 
+# FreeBSD Ports
+
+A collection of FreeBSD ports that I maintain.
